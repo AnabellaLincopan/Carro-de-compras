@@ -18,6 +18,8 @@ https://documenter.getpostman.com/view/1811817/Szzj8yAq?version=latest
 
 Para este reto técnico he creado una página web utilizando HTML5, CSS3, Bootstrap y Vanilla Javascript, la cual se encuentra en el siguiente link:
 
+https://anabellalincopan.github.io/Carro-de-compras/
+
 Los resultados logrados en la creación de la página fueron:
 
 - Se logra llamar a la API de productos y mostrarlos en pantalla. 
